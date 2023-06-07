@@ -1,0 +1,6 @@
+$(function(){
+	
+	
+	$('.thumbs a').touchTouch();
+
+});
